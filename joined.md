@@ -27,3 +27,7 @@ Members of the organization : <br>
 * Koyya Khushhal Reddy [KKhushhalR2405]
 * Ayush Yadav [blackphoenix42]
 * Thejaswin S [thejaswin123]
+* Avish Jha [avishj]
+* Himanshu [himanshu007-creator]
+* Sameer Sinha [sameer882000]
+* Shannon A [shannon-nz]
